@@ -1,5 +1,5 @@
 # Dev.To-Articles
-This repository hosts my dev.to articles, written as my I progresses in data analytics, data science, and real-world problem solving.
+This repository hosts my dev.to articles, written as I progresses in data analytics, data science, and real-world problem solving.
 Take a look at my dev.to articles capturing my learning journey in data analytics and data science.
 
 ## Geeting Started With Git
