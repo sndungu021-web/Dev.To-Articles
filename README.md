@@ -9,3 +9,7 @@ https://dev.to/s_ndungu_ebc94c8db8906f72/the-ultimate-manual-understanding-git-a
 ## Getting Started with Microsoft Excel
 Moving from beginner to pro in Excel
 https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh
+
+## Power BI
+From Raw Data to Insights: Schemas and Data Modeling
+https://dev.to/s_ndungu_ebc94c8db8906f72/from-raw-data-to-insights-schemas-and-data-modeling-3gf6
