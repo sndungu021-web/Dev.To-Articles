@@ -3,7 +3,7 @@ This repository hosts my dev.to articles, written as I progresses in data analyt
 Take a look at my dev.to articles capturing my learning journey in data analytics and data science.
 
 ## Geeting Started With Git
-My first ever article on Dev.to
+My first article on Dev.to
 https://dev.to/s_ndungu_ebc94c8db8906f72/the-ultimate-manual-understanding-git-and-github-without-headche-43lp
 
 ## Getting Started with Microsoft Excel
