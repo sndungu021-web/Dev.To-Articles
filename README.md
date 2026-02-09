@@ -13,3 +13,7 @@ https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-dat
 ## Power BI
 From Raw Data to Insights: Schemas and Data Modeling
 https://dev.to/s_ndungu_ebc94c8db8906f72/from-raw-data-to-insights-schemas-and-data-modeling-3gf6
+
+## Power BI
+Translating Data Chaos Into Business-Actions with Power BI
+https://dev.to/s_ndungu_ebc94c8db8906f72/translating-data-chaos-into-business-actions-with-power-bi-keh
