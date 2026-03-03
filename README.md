@@ -17,3 +17,7 @@ https://dev.to/s_ndungu_ebc94c8db8906f72/from-raw-data-to-insights-schemas-and-d
 ## Power BI
 Translating Data Chaos Into Business-Actions with Power BI
 https://dev.to/s_ndungu_ebc94c8db8906f72/translating-data-chaos-into-business-actions-with-power-bi-keh
+
+##**SQL**
+Joins and Window Functions In SQL
+https://dev.to/s_ndungu_ebc94c8db8906f72/joins-and-window-functions-in-sql-44p
