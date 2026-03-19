@@ -21,3 +21,8 @@ https://dev.to/s_ndungu_ebc94c8db8906f72/translating-data-chaos-into-business-ac
 ## SQL
 Joins and Window Functions In SQL
 https://dev.to/s_ndungu_ebc94c8db8906f72/joins-and-window-functions-in-sql-44p
+
+## SQL & POWER BI
+Connecting Power BI to a SQL Database
+https://dev.to/s_ndungu_ebc94c8db8906f72/connecting-power-bi-desktop-to-an-sql-database-2k5f
+
