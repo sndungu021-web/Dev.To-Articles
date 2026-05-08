@@ -22,7 +22,8 @@ Below is a collection of my published guides and tutorials, ranging from foundat
 ###  Integrated Analytics
 * **Connecting Power BI Desktop to a SQL Database** *A technical bridge showing how to create a live pipeline between your database and your dashboard.* 🔗 [Read Article](https://dev.to/s_ndungu_ebc94c8db8906f72/connecting-power-bi-desktop-to-an-sql-database-2k5f)
 
----
+## Begginer Python
+Intoduction to Python (https://dev.to/s_ndungu_ebc94c8db8906f72/a-beginner-path-guide-to-python-2bnb)
 
 ## Connect with Me
 If you find these articles helpful or want to discuss data analytics, feel free to reach out!
